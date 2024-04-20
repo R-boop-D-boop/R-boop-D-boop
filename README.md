@@ -7,7 +7,9 @@
   
 - 💞️ I’m looking to collaborate on anything that can give me more insight into the software developing world.
 - 📫 How to reach me on my LinkedIn
- ![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-boop-d-boop&show_icons=true&theme=merko)
+
+![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-boop-d-boop&show_icons=true&theme=merko)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=R-boop-D-boop&theme=merko)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-boop-d-boop&layout=compact)
 
 <img align="center" alt="Coding" width="80%" src="https://www.ignant.com/wp-content/uploads/2014/04/Rebecca-Mock_02.gif">

@@ -17,7 +17,7 @@
 
 <img align="center" alt="Coding" width="80%" src="https://www.ignant.com/wp-content/uploads/2014/04/Rebecca-Mock_02.gif">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Here+lies+my+progress;Step+lightly)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Here+lies+my+progress,+be+kind+&+say+hello!)](https://git.io/typing-svg)
 
 <!---
 R-boop-D-boop/R-boop-D-boop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

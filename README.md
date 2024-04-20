@@ -11,6 +11,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=r-boop-d-boop&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img align="right" alt="Coding" width="100%" src="https://www.royalparks.org.uk/sites/default/files/styles/15by7_lg_x2/public/2024-01/Queen%20Bumblebee%20species%20-%20Terrestris_resized4web.jpg.webp?itok=Id4WbAwK">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=R-boop-D-boop&theme=merko)](https://git.io/streak-stats)
 
 <!---

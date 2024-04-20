@@ -6,7 +6,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am double jointed and have a mild addiction to stationary
  ![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-boop-d-boop&show_icons=true&theme=merko)
-[![trophy](https://github-profile-trophy.vercel.app/?username=r-boop-d-boop&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+https://github-profile-trophy.vercel.app/?username=r-boop-d-boop&theme=gruvbox
 <!---
 R-boop-D-boop/R-boop-D-boop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

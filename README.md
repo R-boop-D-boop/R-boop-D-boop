@@ -11,7 +11,12 @@ I’m currently learning HTML, CSS, C#, Javascript, SQL, .Net
 
 
 
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=993300&random=false&width=435&lines=Herein+lies+my+coding+progress!;Enjoy!)](https://git.io/typing-svg)
+
+
+
+
 
 ![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-boop-d-boop&show_icons=true&theme=merko)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=R-boop-D-boop&theme=merko)](https://git.io/streak-stats)

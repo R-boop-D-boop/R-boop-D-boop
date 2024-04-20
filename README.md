@@ -19,8 +19,6 @@ HTML  CSS  C#  Javascript  SQL  .Net
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=R-boop-D-boop&theme=merko)](https://git.io/streak-stats)
 
 
-![test](https://github-readme-stats.vercel.app/username:r-boop-d-boop/api)
-
 <!---
 R-boop-D-boop/R-boop-D-boop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

@@ -11,6 +11,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=r-boop-d-boop&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img align="right" alt="Coding" width="100%" src="https://www.royalparks.org.uk/sites/default/files/styles/15by7_lg_x2/public/2024-01/Queen%20Bumblebee%20species%20-%20Terrestris_resized4web.jpg.webp?itok=Id4WbAwK">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 <!---
 R-boop-D-boop/R-boop-D-boop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

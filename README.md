@@ -6,13 +6,6 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am double jointed and have a mild addiction to stationary
 
-merko: {
-    title_color: "abd200",
-    icon_color: "b7d364",
-    text_color: "68b587",
-    bg_color: "0a0f0b",
-  }
-
  ![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-boop-d-boop&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
  ![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-boop-d-boop&show_icons=true&theme=merko)
 <!---

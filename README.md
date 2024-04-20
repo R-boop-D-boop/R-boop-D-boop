@@ -7,14 +7,15 @@ I’m currently learning HTML, CSS, C#, Javascript, SQL, .Net
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=r-boop-d-boop&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-  
- :sparkles: I’m looking to collaborate on anything that can give me more insight into the software developing world. :sparkles:
+
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=993300&random=false&width=435&lines=Herein+lies+my+coding+progress!;Enjoy!)](https://git.io/typing-svg)
 
 ![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-boop-d-boop&show_icons=true&theme=merko)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=R-boop-D-boop&theme=merko)](https://git.io/streak-stats)
+
+:sparkles: I’m looking to collaborate on anything that can give me more insight into the software developing world. :sparkles:
 
 
 :fire: <strong>These are my stats! Watch this space to see my coding knowledge grow!<strong/> :fire:

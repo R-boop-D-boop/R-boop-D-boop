@@ -6,7 +6,8 @@
 
 :fallen_leaf: I’m looking to collaborate on anything that can give me more insight into the software developing world.
 
-:fallen_leaf: I’m currently learning HTML, CSS, C#, Javascript, SQL, .Net 
+:fallen_leaf: I’m currently learning:
+HTML  CSS  C#  Javascript  SQL  .Net 
 
 
 <h2>These are my stats! Watch this space to see my coding knowledge grow! :fire:</h2>
@@ -18,7 +19,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=R-boop-D-boop&theme=merko)](https://git.io/streak-stats)
 
 
-
+![test](https://github-readme-stats.vercel.app/username:r-boop-d-boop/api)
 
 <!---
 R-boop-D-boop/R-boop-D-boop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

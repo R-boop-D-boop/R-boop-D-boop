@@ -21,7 +21,7 @@
 ![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-boop-d-boop&show_icons=true&theme=merko)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=R-boop-D-boop&theme=merko)](https://git.io/streak-stats)
 
-:sparkles: I’m looking to collaborate on anything that can give me more insight into the software developing world. :sparkles:
+:fallen_leaf: I’m looking to collaborate on anything that can give me more insight into the software developing world.
 
 
 :fire: <strong>These are my stats! Watch this space to see my coding knowledge grow!<strong/> :fire:

@@ -11,10 +11,11 @@
  ![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-boop-d-boop&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-boop-d-boop&layout=compact)
 
-<img align="right" alt="Coding" width="100%" src="https://www.ignant.com/wp-content/uploads/2014/04/Rebecca-Mock_02.gif">
+<img align="center" alt="Coding" width="80%" src="https://www.ignant.com/wp-content/uploads/2014/04/Rebecca-Mock_02.gif">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=R-boop-D-boop&theme=merko)](https://git.io/streak-stats)
 
+![Visitor Count](https : //profile-counter.glitch.me/{YOUR USER}/count.svg)
 <!---
 R-boop-D-boop/R-boop-D-boop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

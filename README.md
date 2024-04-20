@@ -17,7 +17,7 @@ I’m currently learning HTML, CSS, C#, Javascript, SQL, .Net
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=R-boop-D-boop&theme=merko)](https://git.io/streak-stats)
 
 
-:fire: <strong These are my stats! Watch this space to see my coding knowledge grow!/> :fire:
+:fire: <strong>These are my stats! Watch this space to see my coding knowledge grow!<strong/> :fire:
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-boop-d-boop&layout=compact)

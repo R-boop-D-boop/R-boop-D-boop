@@ -4,7 +4,7 @@ I’m interested in all manner of coding, but I am also an avid reader and love 
 
 I’m currently learning HTML,CSS,C#,Javascript,SQL,.Net
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=004B19&random=false&width=435&lines=Herein+lies+my+coding+progress!;Enjoy!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=993300&random=false&width=435&lines=Herein+lies+my+coding+progress!;Enjoy!)](https://git.io/typing-svg)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=r-boop-d-boop&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
   

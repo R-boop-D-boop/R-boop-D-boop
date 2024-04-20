@@ -19,7 +19,7 @@ I’m looking to collaborate on anything that can give me more insight into the 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-boop-d-boop&layout=compact)
-
+![alt text]([http://url/to/img.png](https://gifdb.com/images/high/avatar-the-last-airbender-zuko-worship-desert-dkpxo1p8uneyip4h.gif))
 
 <!---
 R-boop-D-boop/R-boop-D-boop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

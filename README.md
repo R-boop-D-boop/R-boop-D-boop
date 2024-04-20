@@ -6,6 +6,12 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am double jointed and have a mild addiction to stationary
 
+merko: {
+    title_color: "abd200",
+    icon_color: "b7d364",
+    text_color: "68b587",
+    bg_color: "0a0f0b",
+  }
 <!---
 R-boop-D-boop/R-boop-D-boop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

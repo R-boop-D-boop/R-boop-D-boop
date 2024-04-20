@@ -14,6 +14,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=r-boop-d-boop&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-boop-d-boop&show_icons=true&theme=merko)
+<img alt="motivated" height= 200px src=https://i.pinimg.com/736x/d2/d1/33/d2d133780bffc61c09992743a7ea281e.jpg>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=R-boop-D-boop&theme=merko)](https://git.io/streak-stats)
 
 

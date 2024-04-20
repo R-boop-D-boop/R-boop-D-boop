@@ -6,6 +6,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am double jointed and have a mild addiction to stationary
  ![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-boop-d-boop&show_icons=true&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-boop-d-boop&layout=compact)
 [![trophy](https://github-profile-trophy.vercel.app/?username=r-boop-d-boop&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---

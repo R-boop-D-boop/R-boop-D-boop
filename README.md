@@ -11,7 +11,7 @@
  ![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-boop-d-boop&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-boop-d-boop&layout=compact)
 
-<img align="right" alt="Coding" width="100%" src="https://www.royalparks.org.uk/sites/default/files/styles/15by7_lg_x2/public/2024-01/Queen%20Bumblebee%20species%20-%20Terrestris_resized4web.jpg.webp?itok=Id4WbAwK](https://www.ignant.com/wp-content/uploads/2014/04/Rebecca-Mock_02.gif (https://www.ignant.com/wp-content/uploads/2014/04/Rebecca-Mock_02.gif)">
+<img align="right" alt="Coding" width="100%" src="https://www.ignant.com/wp-content/uploads/2014/04/Rebecca-Mock_02.gif">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=R-boop-D-boop&theme=merko)](https://git.io/streak-stats)
 

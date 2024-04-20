@@ -11,9 +11,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=993300&random=false&width=435&lines=Herein+lies+my+coding+progress!;Enjoy!)](https://git.io/typing-svg)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=R-boop-D-boop&theme=merko)](https://git.io/streak-stats)
 ![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-boop-d-boop&show_icons=true&theme=merko)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-boop-d-boop&theme=merko&layout=donut)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=R-boop-D-boop&theme=merko)](https://git.io/streak-stats)
 
 :fallen_leaf: I’m looking to collaborate on anything that can give me more insight into the software developing world.
 

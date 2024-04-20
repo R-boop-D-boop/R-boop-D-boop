@@ -4,12 +4,12 @@
 
 :fallen_leaf: I’m currently learning HTML, CSS, C#, Javascript, SQL, .Net 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=993300&random=false&width=435&lines=Herein+lies+my+coding+progress!;Enjoy!)](https://git.io/typing-svg)
+
+<h2>These are my stats! Watch this space to see my coding knowledge grow! :fire:</h2>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=r-boop-d-boop&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-:fire: <strong>These are my stats! Watch this space to see my coding knowledge grow!<strong/> :fire:
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=993300&random=false&width=435&lines=Herein+lies+my+coding+progress!;Enjoy!)](https://git.io/typing-svg)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=R-boop-D-boop&theme=merko)](https://git.io/streak-stats)
 ![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-boop-d-boop&show_icons=true&theme=merko)

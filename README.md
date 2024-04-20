@@ -15,7 +15,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=R-boop-D-boop&theme=merko)](https://git.io/streak-stats)
 
-![Visitor Count](https://profile-counter.glitch.me/r-boop-d-boop/count.svg)
+
 <!---
 R-boop-D-boop/R-boop-D-boop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

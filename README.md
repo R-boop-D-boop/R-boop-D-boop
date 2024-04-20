@@ -5,8 +5,6 @@
 - 📫 How to reach me on my LinkedIn
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am double jointed and have a mild addiction to stationary
-
- ![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-boop-d-boop&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
  ![Rachel's GitHub stats](https://github-readme-stats.vercel.app/api?username=r-boop-d-boop&show_icons=true&theme=merko)
 <!---
 R-boop-D-boop/R-boop-D-boop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

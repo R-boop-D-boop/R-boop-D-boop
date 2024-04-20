@@ -18,6 +18,8 @@ I’m currently learning HTML, CSS, C#, Javascript, SQL, .Net
 
 
 :fire: <strong These are my stats! Watch this space to see my coding knowledge grow!/> :fire:
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-boop-d-boop&layout=compact)
 <img width="16%" src="https://gifdb.com/images/high/avatar-the-last-airbender-zuko-worship-desert-dkpxo1p8uneyip4h.gif">
 

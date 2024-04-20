@@ -1,3 +1,6 @@
+header.png
+
+
 - 👋 Hi, I’m @R-boop-D-boop
 - 👀 I’m interested in all manner of coding, but I am also an avid reader and love cooking. You will probably find me reading my book while trying to play BOTW or TOTK at the same time.
 - 🌱 I’m currently learning HTML,CSS,C#,Javascript,SQL,.Net
